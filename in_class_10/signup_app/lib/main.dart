@@ -214,7 +214,7 @@ class _SignupPageState extends State<SignupPage> {
                       });
                     },
                   ),
-                  const Text('Pretend offline (mock test)'),
+                  const Text('Pretend offline (test)'),
                 ],
               ),
               if (_loading) const CircularProgressIndicator(),
